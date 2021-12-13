@@ -1,4 +1,4 @@
-#This is the folder of the flexible automation assignment.
+This is the folder of the flexible automation assignment.
 In this folder you can find:
 	-Robotic_Arm.ttt: A model (not finished) of a arm robot, importing meshes, downloaded from GrabCad
 			  and modified with CREO.
